@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service</title>
+</head>
+<body>
+    <h1>Terms of Service for CloudPacts</h1>
+    <p>Last updated: 12.22.2024 </p>
+
+    <h2>Acceptance of Terms</h2>
+    <p>By using CloudPacts apps, integrations, or services ("the Services"), you agree to these Terms of Service. If you do not agree, you may not use the Services.</p>
+
+    <h2>Use of Services</h2>
+    <ul>
+        <li>You must comply with the terms and policies of the platforms on which our apps operate (e.g., Discord, Salesforce).</li>
+        <li>You agree not to use the Services for illegal activities or in violation of any laws.</li>
+    </ul>
+
+    <h2>Intellectual Property</h2>
+    <p>All content, code, and intellectual property within the Services are owned by CloudPacts or its licensors. You may not copy, modify, or distribute any part of the Services without prior consent.</p>
+
+    <h2>Liability and Warranties</h2>
+    <p>The Services are provided "as is" without warranties of any kind. CloudPacts is not liable for damages arising from the use or inability to use the Services.</p>
+
+    <h2>Termination</h2>
+    <p>We reserve the right to suspend or terminate access to the Services at our discretion, without prior notice, if these Terms are violated.</p>
+
+    <h2>Modifications to Terms</h2>
+    <p>We may revise these Terms periodically. Continued use of the Services constitutes acceptance of the updated Terms.</p>
+
+    <h2>Governing Law</h2>
+    <p>These Terms are governed by the laws of [Your Jurisdiction], without regard to its conflict of law principles.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions about these Terms, please contact us at <strong>29neibolt@pm.me</strong>.</p>
+</body>
+</html>
